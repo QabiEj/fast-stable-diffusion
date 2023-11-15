@@ -5,22 +5,27 @@ Welcome to the repository for the ghbony Dreambooth model trained by Qabidev. Th
 ## Sample Pictures
 
 ![image](https://github.com/ShabanEjupi/fast-stable-diffusion/assets/101940223/a9fc979e-a8dd-4f69-8ab7-535edf435b6e)
+
 *Prompt: ghbony, kung fu, hyper-detailed background, character concept, full body, dynamic pose, intricate, highly detailed, digital painting, artstation, concept art, smooth, sharp focus, illustration, square thumbnail, highly detailed.*
 
 ![image](https://github.com/ShabanEjupi/fast-stable-diffusion/assets/101940223/7dd7c3ed-e123-458e-ac0e-70d76d1ef0c5)
+
 *Prompt: ghbony, create a full-body character concept of a steampunk explorer, featuring intricate mechanical gadgets and a weathered, detailed outfit.*
 
 ![image](https://github.com/ShabanEjupi/fast-stable-diffusion/assets/101940223/7a89b0b5-c125-4d58-997b-ddfb450ed2f1)
+
 *Prompt: ghbony, craft a character concept of a wise old wizard with a long, flowing beard, clutching an ancient, ornate staff in a misty, enchanted forest.*
 
 ![image](https://github.com/ShabanEjupi/fast-stable-diffusion/assets/101940223/f8fcb28c-3bb3-49c6-8356-e04fd23466a2)
+
 *Prompt: ghbony, classic cartoon style, dynamic action pose, vibrant colors.*
 
 ![image](https://github.com/ShabanEjupi/fast-stable-diffusion/assets/101940223/708c7779-fe00-4967-a403-cda3b468f693)
+
 *Prompt: ghbony, swimming in the sea.*
 
 ![image](https://github.com/ShabanEjupi/fast-stable-diffusion/assets/101940223/fa8a679e-0b9f-4ae0-b38e-beb13e6bffb5)
-* My character as a Pokemon.*
+*My character as a Pokemon.*
 
 ## Hugging Face Model
 
