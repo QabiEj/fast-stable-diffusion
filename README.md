@@ -25,6 +25,34 @@ Welcome to the repository for the ghbony Dreambooth model trained by Qabidev. Th
 ## Hugging Face Model
 
 Check out the model on Hugging Face: [Qabidev/ghbony](https://huggingface.co/Qabidev/ghbony)
+### Google Colab
+
+You can run this project in Google Colab for a cloud-based environment. Follow the steps below:
+
+1. Click the "Open in Colab" button to open the Colab notebook.
+
+    [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/ShabanEjupi/fast-stable-diffusion/blob/main/fast-DreamBooth.ipynb)
+
+2. In the Colab notebook, navigate to the section where you can clone this GitHub repository.
+
+    ```python
+    !git clone https://github.com/ShabanEjupi/fast-stable-diffusion.git
+    ```
+
+3. Paste the link above into a new code cell and run it. This will clone the GitHub repository into your Colab environment.
+
+4. You can now work with the project directly in Google Colab, exploring the provided notebooks and executing code cells.
+
+Feel free to explore the codebase, contribute, and use the Fast Stable Diffusion algorithm in your projects.
+
+## File Structure
+
+- `.github`: GitHub Actions configuration.
+- `AUTOMATIC1111_files`: Supporting files.
+- `Dependencies`: Dependency files.
+- `Dreambooth`: Dreambooth model implementation.
+- `fast-DreamBooth.ipynb`: Main notebook for the Fast DreamBooth.
+- `fast_stable_diffusion_AUTOMATIC1111.ipynb`: Notebook for stable diffusion.
 
 ## Acknowledgments
 
