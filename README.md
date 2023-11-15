@@ -25,6 +25,7 @@ Welcome to the repository for the ghbony Dreambooth model trained by Qabidev. Th
 *Prompt: ghbony, swimming in the sea.*
 
 ![image](https://github.com/ShabanEjupi/fast-stable-diffusion/assets/101940223/fa8a679e-0b9f-4ae0-b38e-beb13e6bffb5)
+
 *My character as a Pokemon.*
 
 ## Hugging Face Model
