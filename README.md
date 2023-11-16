@@ -51,18 +51,9 @@ You can run this project in Google Colab for a cloud-based environment. Follow t
 
 Feel free to explore the codebase, contribute, and use the Fast Stable Diffusion algorithm in your projects.
 
-## File Structure
-
-- `.github`: GitHub Actions configuration.
-- `AUTOMATIC1111_files`: Supporting files.
-- `Dependencies`: Dependency files.
-- `Dreambooth`: Dreambooth model implementation.
-- `fast-DreamBooth.ipynb`: Main notebook for the Fast DreamBooth.
-- `fast_stable_diffusion_AUTOMATIC1111.ipynb`: Notebook for stable diffusion.
-
 ## Acknowledgments
 
-- Model trained by Qabidev.
+- Model trained by Qabidev, but the code is forked.
 - Images generated using the Dreambooth model.
 - Check out the model on Hugging Face for additional details: [Qabidev/ghbony](https://huggingface.co/Qabidev/ghbony)
 
