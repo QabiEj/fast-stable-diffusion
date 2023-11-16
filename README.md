@@ -37,7 +37,7 @@ You can run this project in Google Colab for a cloud-based environment. Follow t
 
 1. Click the "Open in Colab" button to open the Colab notebook.
 
-    [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/ShabanEjupi/fast-stable-diffusion/blob/main/fast-DreamBooth.ipynb)
+    [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/ShabanEjupi/fast-stable-diffusion/blob/main/ghbonyModel.ipynb)
 
 2. In the Colab notebook, navigate to the section where you can clone this GitHub repository.
 
