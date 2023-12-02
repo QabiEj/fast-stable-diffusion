@@ -1,3 +1,25 @@
+# gmself Dreambooth Model Training
+
+Welcome to the repository for the gmself Dreambooth model trained by Qabidev. This model is designed to generate creative and detailed character concepts based on prompts.
+
+## Sample Pictures
+
+![Foto tu lexu libra](https://github.com/QabiEj/fast-stable-diffusion/assets/101940223/7a64a5dc-598f-40eb-912b-ceb51a0b315c)
+
+*Prompt: gmself reading a book*
+
+![Foto tu lu shah](https://github.com/QabiEj/fast-stable-diffusion/assets/101940223/942e03ff-1119-44cd-83f5-80e6e0050c6b)
+
+*Prompt: prompt gmself playing chess, full body picture*
+
+![gmself working on laptop, full body picture](https://github.com/QabiEj/fast-stable-diffusion/assets/101940223/11942f84-ff60-445a-a10d-25e467e5cd33)
+
+*Prompt: prompt gmself working on laptop, full body picture*
+
+## Hugging Face Model
+
+Check out the model on Hugging Face: [Qabidev/gmself](https://huggingface.co/Qabidev/gmself)
+
 # ghbony Dreambooth Model Training
 
 Welcome to the repository for the ghbony Dreambooth model trained by Qabidev. This model is designed to generate creative and detailed character concepts based on prompts.
@@ -55,7 +77,9 @@ Feel free to explore the codebase, contribute, and use the Fast Stable Diffusion
 
 - Model trained by Qabidev, but the code is forked.
 - Images generated using the Dreambooth model.
-- Check out the model on Hugging Face for additional details: [Qabidev/ghbony](https://huggingface.co/Qabidev/ghbony)
+- Check out the models on Hugging Face for additional details: [Qabidev/ghbony](https://huggingface.co/Qabidev/ghbony)
+[Qabidev/gmself](https://huggingface.co/Qabidev/gmself)
 
 
-Enjoy creating unique character concepts with ghbony Dreambooth!
+
+Enjoy creating unique character concepts with Dreambooth!
